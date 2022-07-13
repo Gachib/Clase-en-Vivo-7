@@ -1,0 +1,1 @@
+let alias = ["hora", "años", "dias", "minutos"];
